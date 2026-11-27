@@ -1,0 +1,6 @@
+name: hunt-business-logic
+title: Hunt Business Logic
+description: Hunt business-logic vulnerabilities (payment, webhook, verification bypass)
+  on authorised targets; sandbox-only payment tests.
+category: Work and knowledge
+include_in_prompt: false

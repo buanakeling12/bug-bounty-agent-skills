@@ -1,0 +1,4 @@
+name: artex-scopesentry
+description: "Manage a ScopeSentry security-scan platform via MCP (projects, tasks, templates, assets, nodes)."
+version: 1.0.0
+source: ARTEX 0.3.15 (~/workspace/artex/skills/)

@@ -1,0 +1,5 @@
+name: hunt-laravel
+title: Hunt Laravel
+description: Hunt Laravel-specific vulnerabilities on authorised targets; controlled test accounts only.
+category: Work and knowledge
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: hunt-xxe
+title: Hunt XXE
+description: Hunt XML external entity injection on authorised targets; canary-first, no metadata or sensitive-file probes.
+category: Work and knowledge
+include_in_prompt: false

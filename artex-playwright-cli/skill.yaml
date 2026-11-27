@@ -1,0 +1,4 @@
+name: artex-playwright-cli
+description: "Automate browser interactions, test web pages and work with Playwright tests (from ARTEX)."
+version: 1.0.0
+source: ARTEX 0.3.15 (~/workspace/artex/skills/)

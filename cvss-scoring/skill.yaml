@@ -1,0 +1,5 @@
+name: "cvss-scoring"
+title: "Cvss Scoring"
+description: "Produces CVSS v4.0 vector strings from plain-text vulnerability descriptions by systematically evaluating base metrics. Use when scoring a vulnerability, generating a CVSS vector, or estimating severity."
+category: "Work and knowledge"
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: hunt-captcha-bypass
+title: Hunt CAPTCHA Bypass
+description: Test whether CAPTCHA validation is enforced server-side on authorised targets, using owned test accounts and canary markers.
+category: Work and knowledge
+include_in_prompt: false

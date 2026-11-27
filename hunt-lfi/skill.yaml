@@ -1,0 +1,5 @@
+name: hunt-lfi
+title: Hunt LFI
+description: Hunt local/remote file inclusion and path traversal on authorised targets; canary-first, no credential collection.
+category: Work and knowledge
+include_in_prompt: false

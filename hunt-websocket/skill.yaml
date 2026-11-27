@@ -1,0 +1,5 @@
+name: hunt-websocket
+title: Hunt WebSocket Vulnerabilities
+description: Review WebSocket handshake, origin and per-message authorisation on authorised applications, using synthetic test tenants.
+category: Work and knowledge
+include_in_prompt: false

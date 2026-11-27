@@ -1,0 +1,6 @@
+name: hunt-graphql
+title: Hunt GraphQL
+description: Hunt GraphQL vulnerabilities (introspection, IDOR, batching/aliasing)
+  on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

@@ -1,0 +1,6 @@
+name: hunt-api-misconfig
+title: Hunt API Misconfig
+description: Hunt API security misconfigurations (mass assignment, CORS, parameter
+  pollution) on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

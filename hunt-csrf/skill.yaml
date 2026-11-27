@@ -1,0 +1,5 @@
+name: hunt-csrf
+title: Hunt CSRF Vulnerabilities
+description: Hunt CSRF on state-changing actions with browser-deliverable PoCs on authorised targets, using test accounts only.
+category: Work and knowledge
+include_in_prompt: false

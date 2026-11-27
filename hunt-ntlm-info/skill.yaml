@@ -1,0 +1,5 @@
+name: hunt-ntlm-info
+title: Hunt NTLM Information Disclosure
+description: Hunt NTLM/Negotiate information disclosure on internet-reachable IIS/SharePoint/Exchange, observation only.
+category: Work and knowledge
+include_in_prompt: false

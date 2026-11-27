@@ -1,0 +1,5 @@
+name: hunt-ssti
+title: Hunt SSTI
+description: Hunt server-side template injection across Jinja2, Twig, Freemarker, ERB, Thymeleaf and more on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

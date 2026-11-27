@@ -1,0 +1,5 @@
+name: hunt-cloud-misconfig
+title: Hunt Cloud Misconfigurations
+description: Hunt cloud and infrastructure misconfigurations such as public buckets, open Firebase rules and over-permissioned Cognito/RUM roles on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

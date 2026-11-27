@@ -1,0 +1,5 @@
+name: hunt-deserialization
+title: Hunt Insecure Deserialization
+description: Hunt insecure deserialization (Java, PHP, Python pickle, .NET, Ruby, JNDI) on authorised targets with OOB canary detection.
+category: Work and knowledge
+include_in_prompt: false

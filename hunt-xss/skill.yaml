@@ -1,0 +1,5 @@
+name: hunt-xss
+title: Hunt XSS
+description: Hunt cross-site scripting vulnerabilities on authorised targets; canary-only proof in owned test sessions.
+category: Work and knowledge
+include_in_prompt: false

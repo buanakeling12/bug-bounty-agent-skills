@@ -1,0 +1,5 @@
+name: hunt-dom
+title: Hunt DOM Vulnerabilities
+description: Hunt client-side DOM issues: DOM clobbering, postMessage, service-worker abuse and CSS exfiltration on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

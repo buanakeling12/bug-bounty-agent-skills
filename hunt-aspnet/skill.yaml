@@ -1,0 +1,5 @@
+name: hunt-aspnet
+title: Hunt ASP.NET Surface
+description: Hunt ASP.NET-specific issues: ViewState handling, trace/ELMAH exposure, WCF services and Telerik components on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

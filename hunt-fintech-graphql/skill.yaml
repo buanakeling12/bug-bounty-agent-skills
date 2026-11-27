@@ -1,0 +1,5 @@
+name: hunt-fintech-graphql
+title: Hunt Fintech GraphQL Vulnerabilities
+description: Hunt money-movement GraphQL flaws: idempotency, decimal precision, source-account IDOR and KYC field exposure, using sandbox balances only.
+category: Work and knowledge
+include_in_prompt: false

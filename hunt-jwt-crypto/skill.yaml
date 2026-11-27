@@ -1,0 +1,6 @@
+name: hunt-jwt-crypto
+title: Hunt JWT Crypto
+description: Hunt JWT cryptographic failures (alg none/confusion, weak secrets, kid/jku
+  injection) on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

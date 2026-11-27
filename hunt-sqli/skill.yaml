@@ -1,0 +1,5 @@
+name: hunt-sqli
+title: Hunt SQLi
+description: Hunt SQL injection vulnerabilities on authorised targets; canary-only proof, no real-data extraction.
+category: Work and knowledge
+include_in_prompt: false

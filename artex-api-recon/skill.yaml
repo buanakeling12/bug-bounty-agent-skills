@@ -1,0 +1,4 @@
+name: artex-api-recon
+description: "Discover a website backend APIs, frontend routes and UI trigger points from authorized recon (from ARTEX)."
+version: 1.0.0
+source: ARTEX 0.3.15 (~/workspace/artex/skills/)

@@ -1,0 +1,5 @@
+name: hunt-cache-poison
+title: Hunt Cache Poisoning
+description: Hunt web cache poisoning and cache deception on authorised targets; lab-isolated reproduction with purge.
+category: Work and knowledge
+include_in_prompt: false

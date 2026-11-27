@@ -1,0 +1,5 @@
+name: hunt-saml
+title: Hunt SAML / SSO Attacks
+description: Hunt SAML and SSO flaws: signature wrapping, stripping, comment injection and XXE, using synthetic identities only.
+category: Work and knowledge
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: "bug-bounty-programs"
+title: "Bug Bounty Programs Directory"
+description: "Cari program bug bounty / VDP dari database lokal lissy93/bug-bounties (3.380 program) atau via MCP server-nya — buat milih target yang terotorisasi sebelum recon."
+category: "Work and knowledge"
+include_in_prompt: true

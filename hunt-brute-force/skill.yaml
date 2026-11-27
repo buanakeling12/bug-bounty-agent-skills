@@ -1,0 +1,5 @@
+name: hunt-brute-force
+title: Hunt Missing Rate Limiting
+description: Assess missing or weak rate limiting on login, OTP and token endpoints with tiny bounded budgets on owned synthetic accounts only.
+category: Work and knowledge
+include_in_prompt: false

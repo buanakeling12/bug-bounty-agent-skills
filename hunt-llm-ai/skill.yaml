@@ -1,0 +1,6 @@
+name: hunt-llm-ai
+title: Hunt LLM AI
+description: Hunt LLM/AI vulnerabilities (prompt injection chained to real impact,
+  exfil via OOB proof) on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

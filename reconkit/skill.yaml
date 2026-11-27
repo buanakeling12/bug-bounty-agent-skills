@@ -1,0 +1,5 @@
+name: "reconkit"
+title: "ReconKit Bug Bounty Recon"
+description: "Recon bug bounty yang diotorisasi dengan scope gate, modul recon berurutan, dan validasi aman berbasis canary dari C0 sampai C4."
+category: "Work and knowledge"
+include_in_prompt: true

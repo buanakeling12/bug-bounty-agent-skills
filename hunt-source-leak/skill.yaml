@@ -1,0 +1,5 @@
+name: hunt-source-leak
+title: Hunt Source Code Leakage
+description: Hunt source-map, Swagger, .env and .git exposure on authorised targets; never use discovered credentials.
+category: Work and knowledge
+include_in_prompt: false

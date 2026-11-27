@@ -1,0 +1,5 @@
+name: hunt-grpc
+title: Hunt gRPC
+description: Hunt gRPC service vulnerabilities on authorised targets using controlled test identities only.
+category: Work and knowledge
+include_in_prompt: false

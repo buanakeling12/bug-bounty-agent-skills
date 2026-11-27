@@ -1,0 +1,5 @@
+name: "launch-curve-audit"
+title: "Launch Curve Audit"
+description: "Audit for BSC token launch curves — bonding-curve or tranche IEO, escrowed bids, graduation and LP custody — with a ship/hold/block verdict and GO/CAUTION/BLOCK decision."
+category: "Work and knowledge"
+include_in_prompt: true

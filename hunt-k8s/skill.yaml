@@ -1,0 +1,5 @@
+name: hunt-k8s
+title: Hunt Kubernetes & Docker
+description: Hunt Kubernetes and Docker misconfigurations on authorised targets; canary resources, no metadata access.
+category: Work and knowledge
+include_in_prompt: false

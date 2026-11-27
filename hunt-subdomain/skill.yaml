@@ -1,0 +1,5 @@
+name: hunt-subdomain
+title: Hunt Subdomain Takeover
+description: Hunt subdomain takeover on authorised targets; claim only with explicit authorisation and cleanup.
+category: Work and knowledge
+include_in_prompt: false

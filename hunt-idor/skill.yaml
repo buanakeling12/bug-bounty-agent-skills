@@ -1,0 +1,6 @@
+name: hunt-idor
+title: Hunt IDOR
+description: Hunt insecure direct object reference vulnerabilities on authorised targets;
+  bound to controlled IDs.
+category: Work and knowledge
+include_in_prompt: false

@@ -1,0 +1,6 @@
+name: evm-hardhat
+title: Hardhat Development for EVM Chains
+description: 'Hardhat development for EVM chains: set up projects, write Solidity,
+  compile, test, deploy, verify.'
+category: Work and knowledge
+include_in_prompt: true

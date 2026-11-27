@@ -1,0 +1,6 @@
+name: hunt-auth-bypass
+title: Hunt Auth Bypass
+description: Hunt authentication-bypass vulnerabilities (SSO/SAML/OAuth/JWT/legacy
+  protocol endpoints) on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

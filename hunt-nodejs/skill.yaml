@@ -1,0 +1,5 @@
+name: hunt-nodejs
+title: Hunt Node.js
+description: Hunt Node.js-specific vulnerabilities (prototype pollution, SSTI, trust proxy) on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

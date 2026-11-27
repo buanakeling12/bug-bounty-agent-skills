@@ -1,0 +1,5 @@
+name: hunt-rag-vector
+title: Hunt RAG Vector-Store Weaknesses
+description: Hunt vector-store and embedding-layer weaknesses in RAG pipelines (OWASP LLM08) with owned test tenants and synthetic canaries.
+category: Work and knowledge
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: hunt-springboot
+title: Hunt Spring Boot Vulnerabilities
+description: Hunt Spring Boot issues: exposed actuator endpoints, SpEL injection, H2 console and Spring4Shell on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

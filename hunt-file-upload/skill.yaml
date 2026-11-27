@@ -1,0 +1,5 @@
+name: hunt-file-upload
+title: Hunt File Upload Bugs
+description: Hunt file-upload bypasses: extension, MIME and magic-byte checks, SVG XSS and archive traversal on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

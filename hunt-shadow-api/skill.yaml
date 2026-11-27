@@ -1,0 +1,5 @@
+name: hunt-shadow-api
+title: Hunt Shadow APIs
+description: Hunt shadow and zombie API versions with weaker auth or validation than the current version on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

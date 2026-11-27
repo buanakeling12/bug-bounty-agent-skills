@@ -1,0 +1,5 @@
+name: hunt-misc
+title: Hunt Misc Vulnerabilities
+description: Hunt miscellaneous access-control, invitation, token-scope and SAML issues on authorised targets, with controlled test tenants.
+category: Work and knowledge
+include_in_prompt: false

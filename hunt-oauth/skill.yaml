@@ -1,0 +1,5 @@
+name: hunt-oauth
+title: Hunt OAuth
+description: Hunt OAuth/OIDC flow vulnerabilities on authorised targets using owned test accounts only.
+category: Work and knowledge
+include_in_prompt: false

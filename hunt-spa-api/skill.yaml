@@ -1,0 +1,5 @@
+name: hunt-spa-api
+title: Hunt SPA Hidden APIs
+description: Discover a single-page app's hidden backend API from its public JS bundle, then test it for broken access control on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

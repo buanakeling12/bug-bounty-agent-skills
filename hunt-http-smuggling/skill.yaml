@@ -1,0 +1,5 @@
+name: hunt-http-smuggling
+title: Hunt HTTP Request Smuggling
+description: Hunt HTTP request smuggling (CL.TE, TE.CL, H2 variants) on authorised targets with controlled validation.
+category: Work and knowledge
+include_in_prompt: false

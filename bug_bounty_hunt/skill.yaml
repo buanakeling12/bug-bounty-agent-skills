@@ -1,0 +1,5 @@
+name: "bug_bounty_hunt"
+title: "Bug Bounty Hunt"
+description: "Uji kelas kerentanan web, API, otorisasi, dan logika bisnis pada target yang diotorisasi, lalu serahkan kandidat ke gate validasi sebelum laporan."
+category: "Work and knowledge"
+include_in_prompt: true

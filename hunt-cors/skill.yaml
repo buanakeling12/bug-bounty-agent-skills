@@ -1,0 +1,5 @@
+name: hunt-cors
+title: Hunt CORS
+description: Hunt CORS misconfiguration on authorised targets; browser proof with synthetic canaries only.
+category: Work and knowledge
+include_in_prompt: false

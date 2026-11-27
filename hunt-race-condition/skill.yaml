@@ -1,0 +1,6 @@
+name: hunt-race-condition
+title: Hunt Race Condition
+description: Hunt race-condition vulnerabilities (single-packet / parallel requests)
+  on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

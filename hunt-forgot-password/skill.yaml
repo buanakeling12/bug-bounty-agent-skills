@@ -1,0 +1,5 @@
+name: hunt-forgot-password
+title: Hunt Forgot Password
+description: Hunt forgot-password and account-recovery flaws on authorised targets using owned test accounts.
+category: Work and knowledge
+include_in_prompt: false

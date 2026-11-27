@@ -1,0 +1,5 @@
+name: hunt-nextjs
+title: Hunt Next.js
+description: Hunt Next.js-specific vulnerabilities on authorised targets; synthetic identities, no internal-metadata probes.
+category: Work and knowledge
+include_in_prompt: false

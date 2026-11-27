@@ -1,0 +1,6 @@
+name: contract-verification
+title: Contract Verification
+description: Verify smart contract source on block explorers (Celoscan/Blockscout;
+  adapt to BscScan/Etherscan).
+category: Work and knowledge
+include_in_prompt: true

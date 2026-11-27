@@ -1,0 +1,5 @@
+name: hunt-cicd
+title: Hunt CI/CD Pipeline Vulnerabilities
+description: Review CI/CD trust boundaries, workflow injection and runner/OIDC issues on explicitly authorised repositories and instances.
+category: Work and knowledge
+include_in_prompt: false

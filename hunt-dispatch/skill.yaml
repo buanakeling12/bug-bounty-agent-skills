@@ -1,0 +1,5 @@
+name: hunt-dispatch
+title: Hunt Dispatch Loader
+description: Load the right hunt-* skill set for a /hunt engagement from fingerprint signals, under one authorised scope frame.
+category: Work and knowledge
+include_in_prompt: false

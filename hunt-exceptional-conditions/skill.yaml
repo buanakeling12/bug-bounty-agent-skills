@@ -1,0 +1,5 @@
+name: hunt-exceptional-conditions
+title: Hunt Exceptional-Condition Mishandling
+description: Hunt verbose-error and fail-open issues by sending unexpected input within agreed bounds on authorised targets.
+category: Work and knowledge
+include_in_prompt: false

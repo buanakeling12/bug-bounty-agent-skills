@@ -1,0 +1,7 @@
+name: hunt-rce
+title: Hunt RCE
+description: Hunt remote code execution vulnerabilities (template injection, deserialisation,
+  dependency confusion) on authorised targets; canary files only, never environment
+  secrets.
+category: Work and knowledge
+include_in_prompt: false

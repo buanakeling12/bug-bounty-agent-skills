@@ -1,0 +1,5 @@
+name: "gate_validasi_hipotesis"
+title: "Gate Validasi Hipotesis"
+description: "Validasi hipotesis keamanan dengan gate anti penolakan prematur, dari recon sampai verdict CONFIRMED, FALSIFIED, atau INCONCLUSIVE."
+category: "Work and knowledge"
+include_in_prompt: true

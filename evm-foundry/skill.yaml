@@ -1,0 +1,5 @@
+name: "evm-foundry"
+title: "EVM Foundry Development"
+description: "Foundry development for EVM chains: forge, cast, anvil, and chisel for writing, testing, deploying, and verifying Solidity contracts. Use for bounty PoCs and contract work."
+category: "Work and knowledge"
+include_in_prompt: true
